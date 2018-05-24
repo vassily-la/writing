@@ -10,7 +10,7 @@ Depending on yr header level, use the same number of hash marks(#).
 ######Header six
 
 ## Italicize some words
-You can't make headers bold, but you can italicize some words.
+You can't make headers bold, but you can italicize some words.  
 '''
 ####Colombian Symbolism in _One Hundred Years of Solitude_
 

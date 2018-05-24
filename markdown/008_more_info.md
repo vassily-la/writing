@@ -14,11 +14,11 @@ print s
 ```
 
 ```
-No language indicated, so no syntax highlighting. 
+No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-
+[Some more info on github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [Wiki](http://en.wikipedia.org/wiki/Markdown#Example)
 [Commonmark](http://spec.commonmark.org/dingus/)
 [John Macfarlane](http://johnmacfarlane.net/babelmark2/faq.html)
